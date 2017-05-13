@@ -29,7 +29,7 @@ public class sortRe{
 				else{
 					sort(list,x+1,y);
 				}
-			}
+			} 
 		}
 	}
 } 
